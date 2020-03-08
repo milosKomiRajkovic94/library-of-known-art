@@ -3,9 +3,13 @@
 This app represents showcase of my knowledge in working with newest version of React (version: ^16.13.0") and Redux (version: ^4.0.5), together with @material-ui packages 
 and other side technologies (SASS, JavaScript, HTML, CSS, Node.js etc.) while implementing complicated CRUD functionalities shown in static app using fake JSON data.
 
-## Copyrights
+## Short instructions how to start the project
 
-&copy; 2020 Miloš Rajković All Rights Reserved
+If you want to set up your project locally the easiest way is to install Node.js (https://nodejs.org/en/download/) and then do two terminal commands:
+
+npm install
+
+npm start
 
 ## Available Scripts
 
@@ -73,3 +77,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Copyrights
+
+&copy; 2020 Miloš Rajković All Rights Reserved
