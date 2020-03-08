@@ -7,8 +7,6 @@ and other side technologies (SASS, JavaScript, HTML, CSS, Node.js etc.) while im
 
 &copy; 2020 Miloš Rajković All Rights Reserved
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
