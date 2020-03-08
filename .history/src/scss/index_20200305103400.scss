@@ -1,0 +1,21 @@
+@font-face{
+    font-family: SourceSansPro-Regular;
+    src: url('./SourceSansPro-Regular.otf') format('opentype') 
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    font-family: SourceSansPro-Regular;
+    margin: 0px;
+    height: 100%;
+}
+
+#root{
+    height: 100%;
+    width: 100%;
+}
+
+@import 'header';

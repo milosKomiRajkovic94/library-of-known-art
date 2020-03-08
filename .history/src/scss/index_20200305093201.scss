@@ -1,0 +1,19 @@
+@font-face{
+    font-family: SourceSansPro-Regular;
+    src: url('./SourceSansPro-Regular.otf') format('opentype') 
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    font-family: SourceSansPro-Regular;
+    margin: 0px;
+    height: 100%;
+}
+
+.appContainer{
+    width: 100%;
+    height: 100%;
+}

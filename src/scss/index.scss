@@ -1,0 +1,48 @@
+@font-face{
+    font-family: SourceSansPro-Regular;
+    src: url('./SourceSansPro-Regular.otf') format('opentype') 
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    font-family: SourceSansPro-Regular;
+    margin: 0px;
+    height: 100%;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    overflow-y: hidden;
+}
+
+#root{
+    height: 100%;
+    width: 100%;
+}
+
+$background_color: #DCDDDF;
+
+$body_background_color: #fafafa;
+
+$green_color: green;
+
+$red_color: red;
+
+$black_color: #111;
+
+$white_color: #fff;
+
+@import 'header';
+
+@import 'homePage';
+
+@import 'custom';
+
+@import 'utils';
+
+@import 'footer';

@@ -1,0 +1,27 @@
+.MuiToolbar-root.MuiToolbar-regular.toolbar.MuiToolbar-gutters {
+    padding: 0px;
+    display: inline-block;
+}
+
+header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionFixed.MuiAppBar-colorPrimary.appBar.mui-fixed.MuiPaper-elevation4 {
+    background-color: #DCDDDF;
+    color: #36474F;
+    display: inline-block;
+}
+
+.toolbar h6.MuiTypography-root.MuiTypography-h6.MuiTypography-displayBlock {
+    line-height: 3em;
+}
+
+.menuHeaderIcons{
+    position: absolute;
+    right: 0;
+    text-align: center;
+    display: inline-block;
+    top: calc(50% - 25px);     
+    height: 100%;
+}
+
+ul#userOptions{
+    border: 1px solid #DCDDDF;
+}

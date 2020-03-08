@@ -1,3 +1,9 @@
+## About the project
+
+This app represents showcase of my knowledge in working with newest version of React (version: ^16.13.0") and Redux (version: ^4.0.5), together with @material-ui packages 
+and other side technologies (SASS, JavaScript, HTML, CSS, Node.js etc.) while implementing complicated CRUD functionalities shown in static app using fake JSON data.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

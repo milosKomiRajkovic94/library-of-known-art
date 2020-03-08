@@ -1,0 +1,96 @@
+/* Single card util component */
+
+h6.MuiTypography-root.singleCardTitle.MuiTypography-h6.MuiTypography-displayBlock {
+    font-size: 130%;
+    font-weight: bold;
+    position: sticky;
+    top: 0px;
+    overflow: overlay;
+    background-color: $white_color;
+}
+
+.artInformationTable {
+    width: 100%;
+}
+
+.artInformationTable div {
+    width: 150px;
+    display: inline-grid;
+    font-size: 12px;
+    text-align: start;
+}
+
+span.artInformation {
+    padding-bottom: 5px;
+    padding-top: 25px;
+    padding-left: 10px;
+    display: grid;
+}
+
+button.MuiButtonBase-root.MuiCardActionArea-root.cardActionArea {
+    display: flex;
+}
+
+.singleCardActionFavorite .MuiSvgIcon-colorAction {
+    color: $red_color;
+}
+
+.singleCardActionButtons{
+    display: flex;
+}
+
+.singleCardActionButtons {
+    display: flex;
+    flex-flow: row-reverse;
+}
+
+.MuiDialogActions-root.yesButton.MuiDialogActions-spacing {
+    background-color: $green_color;
+    color: $white_color;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.MuiDialogActions-root.noButton.MuiDialogActions-spacing {
+    background-color: $red_color;
+    color: $white_color;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.MuiAutocomplete-popper {
+    z-index: 10003 !important;
+}
+
+.MuiDialog-root {
+    z-index: 10003 !important;
+}
+
+.MuiFormControl-root.MuiTextField-root.formGroupField {
+    margin-bottom: 20px;
+}
+
+.MuiRating-icon{
+    display: unset !important;
+}
+
+.MuiDialogContent-root.contentOfDialogForInsertOrUpdate {
+    display: grid;
+}
+
+.MuiToolbar-root.MuiToolbar-regular.MuiPickersToolbar-toolbar.MuiPickersDatePickerRoot-toolbar.MuiToolbar-gutters {
+    background-color: $background_color;
+}
+
+.MuiPickersToolbarText-toolbarTxt {
+    color: $black_color !important;
+}
+
+button.MuiButtonBase-root.MuiIconButton-root.MuiPickersDay-day.MuiPickersDay-daySelected {
+    background-color: $background_color;
+    color: $black_color !important;
+}
+
+.MuiButton-textPrimary{
+    color: $black_color !important;
+}

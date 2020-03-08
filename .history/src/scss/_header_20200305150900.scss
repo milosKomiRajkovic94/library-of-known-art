@@ -1,0 +1,54 @@
+.MuiToolbar-root.MuiToolbar-regular.toolbar.MuiToolbar-gutters {
+    padding: 0px;
+    display: inline-block;
+}
+
+header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionFixed.MuiAppBar-colorPrimary.appBar.mui-fixed.MuiPaper-elevation4 {
+    background-color: #DCDDDF;
+    color: #36474F;
+    display: inline-block;
+}
+
+.toolbar h6.MuiTypography-root.MuiTypography-h6.MuiTypography-displayBlock {
+    line-height: 3em;
+}
+
+.menuHeaderIcons{
+    position: absolute;
+    right: 0;
+    text-align: center;
+    display: inline-block;
+    top: calc(50% - 25px);     
+    height: 100%;
+}
+
+ul#userOptions{
+    border: 1px solid #DCDDDF;
+    padding-bottom: 0px;
+    border-radius: 0px;
+}
+
+.menuItem{
+    padding-left: 10px;
+}
+
+.sidebar{
+    width: 250px;
+    height: 100%;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+.sidebarIcon{
+    padding-top: 4px;
+}
+
+.newListItem .MuiListItemIcon-root {
+    min-width: 0px;
+    padding-right: 10px;
+}
+
+.newListItem{
+    cursor: pointer;
+}

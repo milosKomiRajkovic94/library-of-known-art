@@ -1,0 +1,33 @@
+.MuiOutlinedInput-root{
+    border-radius: 0px !important;
+}
+
+.MuiList-padding{
+    padding: 0px !important;
+}
+
+
+.cursorPointer{
+    cursor: pointer;
+}
+
+svg.MuiSvgIcon-root.sidebarIcon {
+    padding-right: 7px;
+}
+
+.hidden{
+    display: none !important;
+}
+
+.center{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.MuiDrawer-root.MuiDrawer-modal {
+    z-index: 10000000 !important;
+}
