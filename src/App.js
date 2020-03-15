@@ -24,9 +24,7 @@ import { SnackbarProvider } from 'notistack';
 import FooterContainer from './components/FooterComponents/FooterContainer';
 
 
-class App extends React.Component{
-
-  render(){
+const App = () => {
 
     const theme = createMuiTheme({
       typeography: {
@@ -53,8 +51,6 @@ class App extends React.Component{
         </SnackbarProvider>
       </ThemeProvider>
     )
-  }
-
 }
 
 
